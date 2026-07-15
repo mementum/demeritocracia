@@ -2,7 +2,6 @@ site_name: Demeritocracia
 site_url: https://demeritocracia.de
 site_author: Daniel Rodriguez
 site_description: Una colección de deméritos políticos en la democracia española
-docs_dir: site
 
 nav:
   - Home: index.md
