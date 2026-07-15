@@ -1,0 +1,55 @@
+site_name: Demeritocracia
+site_url: https://demeritocracia.de
+site_author: Daniel Rodriguez
+site_description: Una colección de deméritos políticos en la democracia española
+docs_dir: site
+
+nav:
+  - Home: index.md
+  - Blog: 
+    - blog/index.md
+
+theme:
+  name: material
+  # custom_dir: website/assets/overrides
+  # favicon: assets/base_images/favicon.png
+  # logo: assets/base_images/favicon.png
+
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+
+  # font:
+  #  text: 'Inter'
+  #  code: 'Hack'
+
+plugins:
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+      post_dir: blog/posts
+      post_date_format: medium
+      post_url_format: "{date}/{slug}"
+      authors: true
+      categories: true
+      # categories_allowed:
+      #  - General
+      #  - Software Engineering
+      #  - Data Science
+      # post_excerpt: required
+      # post_excerpt_separator: <!-- more -->
+      archive: true
+      archive_name: Archive
