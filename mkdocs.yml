@@ -1,43 +1,48 @@
 site_name: Demeritocracia
-# site_url: https://demeritocracia.de
+site_url: https://demeritocracia.de
 site_author: Daniel Rodriguez
-site_description: Una colección de deméritos políticos en la democracia española
-copyright: Copyright &copy; 2026 Daniel Rodriguez
+site_description: Deméritos en la democracia española
 
 extra_css:
   - stylesheets/extra.css
 
 theme:
   name: material
-  # custom_dir: website/assets/overrides
-  # favicon: assets/base_images/favicon.png
-  # logo: assets/base_images/favicon.png
+  # custom_dir: overrides
+  # favicon: assets/images/favicon.png
+  # logo: assets/images/favicon.png
 
   palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: indigo
       toggle:
-        icon: material/brightness-7
-        name: Switch to light mode
-
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: white
-      accent: indigo
-      toggle:
         icon: material/brightness-4
-        name: Switch to dark mode
+        name: Switch to system preference
 
-  # font:
-  #  text: 'Inter'
-  #  code: 'Hack'
+  #  font:
+    # text: 'Inter'
+    # code: 'Hack'
 
   features:
     - content.code.copy
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
@@ -45,6 +50,29 @@ theme:
     - navigation.tracking
     - toc.follow
     - toc.integrate
+
+plugins:
+  - privacy
+  - blog:
+      blog_dir: .
+      blog_toc: false
+      post_dir: posts
+      # post_date_format: medium
+      # post_url_format: "{date}/{slug}"
+      authors: true
+      categories: true
+      # categories_allowed:
+      #   - General
+      #  - Software Engineering
+      #  - Data Science
+      post_excerpt: required
+      post_excerpt_separator: <!-- more -->
+      archive: false
+      archive_name: Archivo
+      archive_toc: true
+
+  - search
+  - tags
 
 markdown_extensions:
   - admonition
@@ -73,27 +101,6 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
-plugins:
-  - rss:
-      match_path: blog/posts/.*
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
-  - blog:
-      blog_dir: blog
-      blog_toc: true
-      post_dir: blog/posts
-      post_date_format: medium
-      post_url_format: "{date}/{slug}"
-      authors: true
-      categories: true
-      # categories_allowed:
-      #  - General
-      #  - Software Engineering
-      #  - Data Science
-      # post_excerpt: required
-      # post_excerpt_separator: <!-- more -->
-      # archive: true
-      # archive_name: Archive
+nav:
+  - Blog: index.md
+  - Acerca de: about.md

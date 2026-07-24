@@ -8,9 +8,10 @@ No es la primera vez y, con toda seguridad, tampoco será la última. Emiliano G
 
 En *El Mundo*: [https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html :octicons-link-external-16:](https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html){:target=_blank}
 
+<!-- more -->
 Es de recibo cerrar el párrafo anterior con *"bla, bla, bla"*, porque eso resume con bastante fidelidad el contenido. Emiliano lleva años contando exactamente la misma historia. Mucho lirili y poco lerele. Mucho ruido y pocas nueces. Grandes palabras que, una vez pronunciadas, se disuelven como un azucarillo. Se evaporan como el dolor de cabeza al tomar una aspirina ... psffffffff.
 
-Sus declaraciones se han convertido en una tradición política. Un clásico del costumbrismo español que ya compite con [*El timo de la estampita* - Wikipedia. :octicons-link-external-16:](https://es.wikipedia.org/wiki/Timo_de_la_estampita)){:target=_blank}
+Sus declaraciones se han convertido en una tradición política. Un clásico del costumbrismo español que ya compite con [*El timo de la estampita* - Wikipedia. :octicons-link-external-16:](https://es.wikipedia.org/wiki/Timo_de_la_estampita){:target=_blank}
 
 Porque, cuando llega la pregunta inevitable --si piensa hacer algo, impulsar alguna iniciativa o respaldar las acciones de quienes sí están dispuestos a actuar--, la respuesta siempre es la misma: **No**, **Niente**, **Nada**.
 
