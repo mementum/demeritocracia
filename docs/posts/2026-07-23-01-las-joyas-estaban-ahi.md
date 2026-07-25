@@ -1,5 +1,5 @@
 ---
-date: 2027-07-23
+date: 2026-07-23
 ---
 
 # Las joyas *"estaban ahí y ya está"*

@@ -1,5 +1,5 @@
 ---
-date: 2027-07-19
+date: 2026-07-19
 ---
 
 # El Timo de Emiliano
