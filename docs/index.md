@@ -1,7 +1,1 @@
----
-hide:
-  - navigation
-  - toc
----
-
 # Artículos
