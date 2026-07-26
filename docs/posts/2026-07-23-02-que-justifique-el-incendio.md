@@ -24,13 +24,13 @@ No es de extrañar porque estamos ante el autor de *"Bildu ha hecho más por los
 
 Puede que los de las pulseras patrióticas no hayan hecho nada, pero es bien sabido lo que ha hecho, apoyado y loado Bildu: el terrorismo, el asesinato, la extorsión, el chantaje, la exclusión.
 
-Sólo nos queda especular sobre los posibles méritos de este caballero para ser Delegado del Gobierno, para haber ocupado cargos en la Moncloa. La Wikipedia (también en la hemeroteca) puede dar una indicación. [Wikipedia - Francisco Martín :octicons-link-external-16:][wiki-fran-martin](){:target=_blank}
+Sólo nos queda especular sobre los posibles méritos de este caballero para ser Delegado del Gobierno, para haber ocupado cargos en la Moncloa. La Wikipedia (también en la hemeroteca) puede dar una indicación. [Wikipedia - Francisco Martín :octicons-link-external-16:][wiki-fran-martin]{:target=_blank}
 
 [wiki-fran-martin]: https://es.wikipedia.org/wiki/Francisco_Mart%C3%ADn_Aguirre
 
 Cita: *"Fue presidente de la Asociación “Bancal de Rosas”, entidad sin ánimo de lucro que gestionó el crowdfunding para la financiación de la campaña a la Secretaría General del PSOE en apoyo de Pedro Sánchez en las primarias de 2017."*
 
-Sorpresón. A cargo del *"crowdfunding"* que tendría que haber sido fiscalizado por el Tribunal de Cuentas para descartar irregularidades. Fiscalización que nunca tuvo lugar gracias a la intervención de otro gran prohombre: *"Santos Cerdán"*. [El Español :octicons-link-external-16:][elesp-cerdan-cuentas]{:target=_blank}
+Sorpresón. A cargo del *"crowdfunding"* que tendría que haber sido fiscalizado por el Tribunal de Cuentas para descartar irregularidades. Fiscalización que nunca tuvo lugar gracias a la intervención de otro gran prohombre: *"Santos Cerdán"*. [El Español :octicons-link-external-16:][elesp-cerd-cuentas]{:target=_blank}
 
 [elesp-cerd-cuentas]: https://www.elespanol.com/espana/20250703/cerdan-nego-revelar-psoe-donantes-sanchez-primarias-pese-exigirlo-tribunal-cuentas/1003743829310_0.html
 
