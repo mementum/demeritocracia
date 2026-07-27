@@ -71,6 +71,9 @@ plugins:
       archive: true
       archive_name: Archivo
       archive_toc: true
+      pagination: false
+      pagination_per_page: 2
+      pagination_keep_content: true
 
   - rss:
       match_path: "posts/.*"
