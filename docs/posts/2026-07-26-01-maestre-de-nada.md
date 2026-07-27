@@ -6,7 +6,7 @@ date: 2026-07-26
 
 Además de los clásicos tres poderes, Ejecutivo, Legislativo y Judicial, las democracias cuentan con un cuarto poder: los medios (o el periodismo).
 
-Ahí tampoco faltan los deméritos, como pasa con los code Antonio Maestre, el cual es claramente *maestre* de menos y de nada.
+Ahí tampoco faltan los deméritos, como pasa con los de Antonio Maestre, el cual es claramente *maestre* de menos y de nada.
 
 En *"El Diario"*: [https://www.eldiario.es/opinion/zona-critica/isabel-neron-ayuso_129_13407008.html :octicons-link-external-16:](https://www.eldiario.es/opinion/zona-critica/isabel-neron-ayuso_129_13407008.html){:target=_blank}
 
