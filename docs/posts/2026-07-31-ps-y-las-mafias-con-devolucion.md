@@ -18,7 +18,7 @@ En *"El Diario"*: [El Gobierno asegura que 48.300 de las 50.000 personas que ent
 
 Un mes en La Mareta y quién se acordará. Italia suspende *Schengen* a España, pero ya lo restaurará. Finlandia se prepara para hacer lo mismo, pero ya se despreparará. Francia refuerza los controles en la frontera casi como si se tratara de una guerra, pero ya los retirará.
 
-  - [El Diario Italia dice que suspende temporalmente Schengen con España y que reintroduce controles en puertos y aeropuertos :octicons-link-external-16:][italias-schengen]{:target=_blank_}
+  - [El Diario Italia dice que suspende temporalmente Schengen con España y que reintroduce controles en puertos y aeropuertos :octicons-link-external-16:][italia-schengen]{:target=_blank_}
 
   - [El Diario Finlandia apoya excluir a España del espacio Schengen por la situación migratoria en Ceuta :octicons-link-external-16:][finlandia-schenge]{:target=_blank_}
 
@@ -26,7 +26,7 @@ Un mes en La Mareta y quién se acordará. Italia suspende *Schengen* a España,
 
 [italia-schengen]: https://www.eldiario.es/politica/italia-anuncia-suspende-provisionalmente-acuerdo-schengen-espana-reintroduce-controles-puertos-aeropuertos_1_13421720.html
 
-[filandia-schengen]: https://www.eldiario.es/politica/ultima-hora-entrada-migrantes-ceuta-directo-15-muertos-llegada-espana_6_13419607_1124153.html
+[finlandia-schengen]: https://www.eldiario.es/politica/ultima-hora-entrada-migrantes-ceuta-directo-15-muertos-llegada-espana_6_13419607_1124153.html
 
 [francia-frontera]: https://www.elcorreo.com/internacional/europa/francia-refuerza-control-frontera-espana-tras-entrada-20260731115357-ntrc.html
 
