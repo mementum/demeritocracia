@@ -18,7 +18,7 @@ Lo normal ante la entrada de **muchos miles** de ilegales en Ceuta (+40.000) ser
 
 [theobj-italia-consultas]: https://theobjective.com/espana/2026-07-30/exteriores-embajador-italia-cerrar-espacio-schengen/
 
-Y todo porque Tajani ha dicho una cosa que piensa el 99,9 % de los mortales. Sólo Irene Montero e Ione Belarra se creen sus propias mentiras. [X- Albares/Tajani :octicons-link-external-16:][x-alb-tajani]{:target=_blank}.
+Y todo porque Tajani ha dicho una cosa que piensa el 99,9 % de los mortales. Sólo Irene Montere e Ione Belarre se creen sus propias mentiras. [X- Albares/Tajani :octicons-link-external-16:][x-alb-tajani]{:target=_blank}.
 
 [x-alb-tajani]: https://x.com/jmalbares/status/2082920563409141782
 
