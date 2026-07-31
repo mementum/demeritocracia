@@ -22,7 +22,9 @@ Y todo porque Tajani ha dicho una cosa que piensa el 99,9 % de los mortales. Só
 
 [x-alb-tajani]: https://x.com/jmalbares/status/2082920563409141782
 
-Seguro que P.S. tiene mucho interés en responder a Marruecos. Después de cederle el Sáhara en contra de todas las resoluciones de la ONU que tanto le gustan y de los deseos de los que allí viven. Que Marruecos *hackeara* el móvil de Sánchez es irrelevante. Que Marruecos le robara el móvil a Bego Pillafondos, aún más irrelevante. Seguro que en esos móviles no hay información comprometida que haga que el hombre enamorado (de si mismo, claro) pueda pensarse dos veces hacer cualquier mínimo gesto que enfade a Marruecos.
+Seguro que P.S. tiene mucho interés en responder a Marruecos. Después de cederle el Sáhara en contra de todas las resoluciones de la ONU que tanto le gustan y de los deseos de los que allí viven. Que Marruecos *hackeara* el móvil de Sánchez es irrelevante. Que Marruecos le robara el móvil a Bego Pillafondos, aún más irrelevante. Seguro que en esos móviles no hay información comprometida que haga que el hombre enamorado (de si mismo, claro) pueda pensarse dos veces hacer cualquier mínimo gesto que enfade a Marruecos. [Marruecos espió el móvil de Sánchez con el software Pegasus durante más de un año :octicons-link-external-16:][mar-hack-ps]{:target=_blank}
+
+[mar-hack-ps]: https://es.euronews.com/2026/02/12/marruecos-infecto-el-movil-de-sanchez-con-pegasus-durante-su-visita-a-ceuta-en-2021
 
 Como cuando P.S. y Albariño se fueron sin agenda a Marruecos, a ver si el monarca tenía a bien recibirlos. [Pedro Sánchez anuncia por sorpresa un viaje a Marruecos sin agenda conocida tras el batacazo electoral en Galicia :octicons-link-external-16:][vozp-viaje-marruecos]{:target=_blank}. Casi tres días estuvieron tomando té en alguna *jaima* a la espera de poder ejercer la mayor de las genuflexiones ante Mohammed VI.
 
