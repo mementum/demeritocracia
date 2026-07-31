@@ -20,7 +20,7 @@ Un mes en La Mareta y quién se acordará. Italia suspende *Schengen* a España,
 
   - [El Diario Italia dice que suspende temporalmente Schengen con España y que reintroduce controles en puertos y aeropuertos :octicons-link-external-16:][italia-schengen]{:target=_blank_}
 
-  - [El Diario Finlandia apoya excluir a España del espacio Schengen por la situación migratoria en Ceuta :octicons-link-external-16:][finlandia-schenge]{:target=_blank_}
+  - [El Diario Finlandia apoya excluir a España del espacio Schengen por la situación migratoria en Ceuta :octicons-link-external-16:][finlandia-schengen]{:target=_blank_}
 
   - [El Correo - Francia refuerza el control fronterizo con España tras la entrada masiva de migrantes en Ceuta :octicons-link-external-16:][francia-frontera]{:target=_blank_}
 
