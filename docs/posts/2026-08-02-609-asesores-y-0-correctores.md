@@ -22,7 +22,7 @@ El PDF: [Carta :octicons-link-external-16:][carta-pdf]{:target=_blank}
 
 [carta-pdf]: https://static.eldiario.es/eldiario/public/content/file/original/2026/0801/08/2026-01-08-carta-presidenta-comision-europea.pdf
 
-Es fácil darse cuenta de que la carta ha sido escrita por los servicios de inteligencia chinosde *Xiji*.
+Es fácil darse cuenta de que la carta ha sido escrita por los servicios de inteligencia chinos de *Xiji*.
 
 ![Carta de los Servicios de Inteligencia Chinos](images/2026-08-02-carta-de-los-chinos.png)
 
