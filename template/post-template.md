@@ -10,3 +10,11 @@ En *"XXXX"*: [Name :octicons-link-external-16:][link-01]{:target=_blank}
 
 <!-- more -->
 
+
+[Name :octicons-link-external-16:][]{:target=_blank}
+[ :octicons-link-external-16:][]{:target=_blank}
+
+ :octicons-link-external-16:
+{:target=_blank}
+
+![ ]()
