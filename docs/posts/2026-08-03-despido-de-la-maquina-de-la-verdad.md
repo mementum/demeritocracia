@@ -19,3 +19,7 @@ Basta con recordar a uno de los sanchistas ya condenados, el Fiscal General del 
 Hoy puede uno imaginar cómo P.S., Bolaños & Cía. le han dicho al cargo cesado: *"Pero, alma de cántaro, no nos han tenido que ganar el relato porque les has relatado la realidad real, sobre cuántos ilegales han cruzado a Ceuta"*.
 
 Ante tal mérito, relatar la verdad, no quedaba más que demeritarse y eliminar cualquier rastro de realidad y verdad de la auténtica máquina del fango.
+
+P.S. No se trata más de que un proceder habitual del desgobierno. Allá por 2020 ya se cesaba a los que hablaban de la realidad del coronavirus [El Mundo - La destitución del policía que alertó de la crisis del coronavirus :octicons-link-external-16:][elmundo-pol-dest]{:target=_blank}
+
+[elmundo-pol-dest]: https://www.elmundo.es/espana/2020/03/31/5e823cfdfdddffad298b4622.html
