@@ -93,6 +93,8 @@ endef
 mkdocs: $(MKDOCS_YML)
 
 # Serve a site
+serve: mkdocs-serve
+
 mk-serve: mkdocs-serve
 
 # main serve recipe, it
@@ -102,18 +104,27 @@ mkdocs-serve: mkdocs
 	$(PDM_RUN) $(MKDOCS_SERVE)
 
 # serve, but first killing it if running and serving in the background
+bserve: mkdocs mkdocs-kill
+
+mk-bserve: mkdocs mkdocs-kill
+
 mkdocs-bserve: mkdocs mkdocs-kill
 	$(call echo_header,mkdocs-bserve-build-and-serve)
 	$(call find_tool_or_exit,$(MKDOCS),$(PDM_RUN))
 	$(PDM_RUN) $(MKDOCS_BSERVE)
 
 # Build an mkdocs site
+build: mkdocs-build
+
 mk-build: mkdocs-build
 
 mkdocs-build: mkdocs
 	$(call echo_header,mkdocs-build)
 	$(call find_tool_or_exit,$(MKDOCS),$(PDM_RUN))
 	$(PDM_RUN) $(MKDOCS_BUILD)
+
+# Deploy mkdocs site
+deploy: mkdocs-deploy
 
 mk-deploy: mkdocs-deploy
 
@@ -125,6 +136,8 @@ mkdocs-deploy: mkdocs-build
 	$(GIT_PUSH)
 
 # kill a running mkdocs instance (probably serving the site)
+kill: mkdocs-kill
+
 mk-kill: mkdocs-kill
 
 mkdocs-kill:
@@ -132,11 +145,11 @@ mkdocs-kill:
 	$(call find_tool_or_exit,$(PKILL))
 	-$(PDM_RUN) $(PKILL) $(MKDOCS)
 
+# Show current git status
 git-status:
 	$(call echo_header,git-status)
 	$(call find_tool_or_exit,$(GIT))
 	$(GIT_STATUS)
-
 
 ###############################################################################
 # TOUCH to force a rebuild
