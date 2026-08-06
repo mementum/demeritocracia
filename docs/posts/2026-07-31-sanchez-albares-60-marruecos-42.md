@@ -8,7 +8,7 @@ A Sánchez le hacen falta 60 agentes en La Mareta porque, aunque él puede pasea
 
 Mientras tanto, a Marruecos, pues casi carta blanca: "Pasen, pasen, que al fondo hay sitio".
 
-En *"OkDiario"*: [Sánchez moviliza 60 agentes para sus vacaciones en La Mareta y deja en Ceuta sólo 42 antidisturbios :octicons-link-external-16:][link-01]{:target=_blank}
+[Okdiario - Sánchez moviliza 60 agentes para sus vacaciones en La Mareta y deja en Ceuta sólo 42 antidisturbios :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://okdiario.com/espana/sanchez-moviliza-60-agentes-sus-vacaciones-mareta-deja-ceuta-solo-42-antidisturbios-19099916
 

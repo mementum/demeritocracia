@@ -10,7 +10,7 @@ Cuando en algo la culpa no puede ser de Ayuso, Rajoy o Aznar, el claro culpable 
 
 A Diana Morant, *Menestra* de Ciencia, Innovación y Universidades, Franco se le ha quedado pequeño. Así que el siguiente en la lista solo podía ser *Hitler*.
 
-En *"La Sexta"*: [Morant compara a Feijóo con Hitler y el PP le acusa de cruzar "una línea inaceptable" :octicons-link-external-16:][sexta-morant-hitler]{:target=_blank}
+[La Sexta - Morant compara a Feijóo con Hitler y el PP le acusa de cruzar "una línea inaceptable" :octicons-link-external-16:][sexta-morant-hitler]{:target=_blank}
 
 [sexta-morant-hitler]: https://www.lasexta.com/noticias/nacional/morant-compara-feijoo-hitler-acusa-cruzar-linea-inaceptable_202607226a611d8c4687a22bdec83135.html
 

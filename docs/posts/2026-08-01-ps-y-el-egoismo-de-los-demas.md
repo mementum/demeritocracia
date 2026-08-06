@@ -8,7 +8,7 @@ P.S. acusa a los demás de egoístas porque se han enfadado al ver a unos 60.000
 
 A P.S. no le importaba mucho su propio egoísmo cuando se puso a regularizar sin preguntar.
 
-En *"El Mundo"*: [Pedro Sánchez carga contra los países "egoístas" en su reacción "ilegal" a la crisis y pide una reunión :octicons-link-external-16:][link-01]{:target=_blank}
+[El Mundo - Pedro Sánchez carga contra los países "egoístas" en su reacción "ilegal" a la crisis y pide una reunión :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.elmundo.es/espana/2026/08/01/6a6db0e9e85eceff058b456e.html
 

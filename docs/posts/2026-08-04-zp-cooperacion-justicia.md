@@ -8,7 +8,7 @@ No pasó ni un día desde su imputación y el aliancista de civilizaciones, el c
 
 Ni blanco ni tinto, la cooperación de ZP no tiene color. Como se puede ver hoy día y todos los días. Al juez evasivas y a las acciones del juez ... palos en las ruedas.
 
-En *"El Diario"*: [Zapatero recurre la autorización del juez para investigar sus cuentas bancarias y las de su entorno :octicons-link-external-16:][link-01]{:target=_blank}
+[El Diario - Zapatero recurre la autorización del juez para investigar sus cuentas bancarias y las de su entorno :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.eldiario.es/politica/zapatero-recurre-autorizacion-juez-investigar-cuentas-bancarias-entorno_1_13426045.html
 

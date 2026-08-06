@@ -8,7 +8,7 @@ Sean Connery fue protagonista de aquella gran película de los 70, *"El hombre q
 
 P.S. es mucho más guapo y más alto que Sean Connery y, por ello, en el futuro el *"pudo indultar"* no habrá que leerlo como algo que podría haber pasado en 2026, sino como algo que **pasó**.
 
-En *"El Debate"*: [Page condena la cesión al «chantaje independentista» en el indulto a Borràs: «Con la que nos está cayendo» :octicons-link-external-16:][link-01]{:target=_blank}
+[El Debate - Page condena la cesión al «chantaje independentista» en el indulto a Borràs: «Con la que nos está cayendo» :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.eldebate.com/espana/castilla-la-mancha/20260729/page-condena-cesion-chantaje-independentista-indulto-borras-esta-cayendo_444776.html
 

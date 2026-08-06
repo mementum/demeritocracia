@@ -8,7 +8,7 @@ Ni en los partidos de alevines se ven estos resultados. Pero es simplemente la r
 
 Que si carta a la ciudadanía por *Bego Pillafondos* (*"soy un hombre profundamente enamorado"*), que si carta a Periquín y a Perico el de los Palotes y a Paco el de los Botes. Tan suelto se ha visto que ha decidido enviar la última a la UE, puede que con *Xi Jinping* de negro (literario). Sí, ese *Xi Jinping*, el de la China en el Zapat(er)o.
 
-En *"El Diario"*: [La carta de Pedro Sánchez a los líderes europeos tras las amenazas de suspender Schengen por Ceuta :octicons-link-external-16:][link-01]{:target=_blank}
+[El Diario - La carta de Pedro Sánchez a los líderes europeos tras las amenazas de suspender Schengen por Ceuta :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.eldiario.es/politica/documento-carta-pedro-sanchez-lideres-europeos-amenazas-suspender-schengen-ceuta_1_13422430.html
 

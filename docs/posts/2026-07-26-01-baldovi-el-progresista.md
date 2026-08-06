@@ -8,7 +8,7 @@ No es extraño que los nuevos fascistas sean grandes discípulos de Goebbels, el
 
 El amigo Joan, Baldoví para los no amigos, nos repite uno de los mantras habituales de estos últimos años: *"La mayoría progresista"*. Y, de tanto repetir, habrá gente que se lo crea.
 
-En *"El Diario"*: [Joan Baldoví: “El Gobierno tiene que espabilar y demostrar que la mayoría progresista sirve” :octicons-link-external-16:][link-01]{:target=_blank}
+[El Diario - Joan Baldoví: “El Gobierno tiene que espabilar y demostrar que la mayoría progresista sirve” :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.eldiario.es/politica/joan-baldovi-gobierno-espabilar-demostrar-mayoria-progresista-sirve_1_13404609.html
 

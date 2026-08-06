@@ -10,7 +10,7 @@ P.S. cuenta que los más de 49.000 ilegales que han entrado en Ceuta lo han hech
 
 Después dice su Gobierno que por lo menos 48.300 han vuelto a Marruecos. ¡Toma del frasco, Carrasco! Son mafias que aceptan devoluciones.
 
-En *"El Diario"*: [El Gobierno asegura que 48.300 de las 50.000 personas que entraron en Ceuta han regresado ya a Marruecos :octicons-link-external-16:][link-01]{:target=_blank}
+[El Diario - El Gobierno asegura que 48.300 de las 50.000 personas que entraron en Ceuta han regresado ya a Marruecos :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.eldiario.es/politica/ultima-hora-entrada-migrantes-ceuta-directo-15-muertos-llegada-espana_6_13419607.html
 

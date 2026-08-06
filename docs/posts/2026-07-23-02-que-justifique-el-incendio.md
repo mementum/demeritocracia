@@ -10,7 +10,7 @@ En la vida hay momentos clave en los que los campeones de verdad se levantan y a
 
 Inconsciente para el ínclito Francisco Martínez, a la sazón Delegado del Gobierno en Madrid.
 
-En la *"Cadena Ser"*: [El delegado del Gobierno en Madrid, sobre la petición de Ayuso por los incendios: "Es una escueta carta con la que ha sacado un tuit" :octicons-link-external-16:][link-01]{:target=_blank}
+[Cadena Ser - El delegado del Gobierno en Madrid, sobre la petición de Ayuso por los incendios: "Es una escueta carta con la que ha sacado un tuit" :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://cadenaser.com/nacional/2026/07/23/el-delegado-del-gobierno-en-madrid-sobre-la-peticion-de-ayuso-por-los-incendios-es-una-escueta-carta-con-la-que-ha-sacado-un-tuit-cadena-ser/
 

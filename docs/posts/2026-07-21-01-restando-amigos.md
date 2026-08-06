@@ -8,7 +8,7 @@ Aunque parezca imposible, se puede perder un partido con un resultado negativo. 
 
 Un tal Alberto Ibáñez no ha tenido mejor idea que tildar a Ferrán Torres de especulador inmobiliario.
 
-Europa Press en X: [Sumar reclama frenar la especulación con la vivienda y señala a Ferrán Torres por su fondo de inversión: "Acapara ya 20 viviendas en Valencia"  :octicons-link-external-16:][link-01]{:target=_blank}
+[Europa Press en X - Sumar reclama frenar la especulación con la vivienda y señala a Ferrán Torres por su fondo de inversión: "Acapara ya 20 viviendas en Valencia"  :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://x.com/europapress/status/2079514254432948556
 

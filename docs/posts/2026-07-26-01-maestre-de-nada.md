@@ -8,7 +8,7 @@ Además de los clásicos tres poderes, Ejecutivo, Legislativo y Judicial, las de
 
 Ahí tampoco faltan los deméritos, como pasa con los de Antonio Maestre, el cual es claramente *maestre* de menos y de nada.
 
-En *"El Diario"*: [Isabel “Nerón” Ayuso :octicons-link-external-16:][link-01]{:target=_blank}
+[El Diario - Isabel “Nerón” Ayuso :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.eldiario.es/opinion/zona-critica/isabel-neron-ayuso_129_13407008.html
 

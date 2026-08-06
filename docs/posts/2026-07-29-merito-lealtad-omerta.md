@@ -6,7 +6,7 @@ date: 2026-07-29
 
 Es lo suyo. Si el candidato no tiene méritos, pues se invoca una *"excepción legal"* y pelillos a la mar. Porque, aunque lo recoja la prensa como un *"Fuenteovejuna, todos a una"*, nadie puede hacer nada y lo importante es recompensar la lealtad a la Omertá. Todo caerá simplemente en el olvido de la hemeroteca.
 
-En *"The Objective"*: [El Gobierno pone al frente del Tesoro al marido de la fuente de los 'emails' del novio de Ayuso :octicons-link-external-16:][link-01]{:target=_blank}
+[The Objective - El Gobierno pone al frente del Tesoro al marido de la fuente de los 'emails' del novio de Ayuso :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://theobjective.com/economia/2026-07-29/marido-mails-ayuso-banco-espana-tesoro/
 

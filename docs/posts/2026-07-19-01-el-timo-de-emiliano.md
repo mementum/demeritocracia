@@ -6,7 +6,7 @@ date: 2026-07-19
 
 No es la primera vez y, con toda seguridad, tampoco será la última. Emiliano García-Page vuelve a explicarnos qué es el auténtico socialismo, reivindicándose como el guardián del *"solar"* del PSOE mientras nos recuerda, una vez más, lo malo que es Pedro Sánchez, los peligros del nuevo modelo de financiación autonómica catalanista y toda la retahíla habitual: *"bla, bla, bla"*.
 
-En *El Mundo*: [Emiliano García-Page: "El modelo de financiación autonómica es un atentado grave contra la igualdad" :octicons-link-external-16:][link-01]{:target=_blank}
+[El Mundo - Emiliano García-Page: "El modelo de financiación autonómica es un atentado grave contra la igualdad" :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html
 

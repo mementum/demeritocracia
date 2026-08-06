@@ -6,7 +6,7 @@ date: 2026-08-03
 
 Que si la máquina del fango, que si los bulos, que si la fachosfera y, de repente, llega la sorpresa. Cesan a un cargo por publicar la verdad.
 
-En *"El Confidencial"*: [Moncloa cesa a la jefa de prensa de Seguridad Nacional por informar de la crisis de Ceuta :octicons-link-external-16:][link-01]{:target=_blank}
+[El Confidencial - Moncloa cesa a la jefa de prensa de Seguridad Nacional por informar de la crisis de Ceuta :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://www.elconfidencial.com/espana/2026-08-03/moncloa-cesa-a-la-jefa-de-prensa-de-seguridad-nacional_4400430/
 

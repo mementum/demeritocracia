@@ -8,7 +8,7 @@ En la vida aplica muy, pero que muy generalmente, el *"Reden ist Silber, Schweig
 
 Cuando uno ve lo que era de esperar para cualquier ser humano con dos dedos de frente, es cuando más aplica.
 
-En *"The Objective"*: [Decenas de marroquíes llegan al Campo de Gibraltar en lanchas y motos acuáticas :octicons-link-external-16:][link-01]{:target=_blank}
+[The Objective - Decenas de marroquíes llegan al Campo de Gibraltar en lanchas y motos acuáticas :octicons-link-external-16:][link-01]{:target=_blank}
 
 [link-01]: https://theobjective.com/espana/politica/2026-08-02/feijoo-critica-situacion-calles-ceuta-mientras-mafias-fletan-lanchas-peninsula/
 
