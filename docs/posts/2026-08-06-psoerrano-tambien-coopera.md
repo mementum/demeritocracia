@@ -4,7 +4,7 @@ date: 2026-08-06
 
 # P.S.Oerrano también coopera con la justicia
 
-Es un no parar. Suena casi como la musiquilla de aquella publicidad: *"El frotar se va a acabar, Wipp Express"*. No hay día, semana, mes ni año en el que un socialista de pro, en el que uno de los caballeros de la mesa redonda sanchista, no coopere a fondo con la justicia.
+Es un no parar. Suena casi como una versión de musiquilla de la publicidad: *"El frotar se va a acabar, Wipp Express"*. Ésta es la versión: *"¡El cooperar no va a parar, chu, chu!"* . No hay día, semana, mes ni año en el que un socialista de pro, en el que uno de los caballeros de la mesa redonda sanchista, no coopere a fondo con la justicia.
 
 [El Diario - El exjefe de gabinete de Sánchez en el PSOE pide anular el clonado de su móvil porque se hizo “sin autorización judicial” :octicons-link-external-16:][link-01]{:target=_blank}
 
