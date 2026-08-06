@@ -10,7 +10,9 @@ En la vida hay momentos clave en los que los campeones de verdad se levantan y a
 
 Inconsciente para el ínclito Francisco Martínez, a la sazón Delegado del Gobierno en Madrid.
 
-En la *"Cadena Ser"*: [https://cadenaser.com/nacional/2026/07/23/el-delegado-del-gobierno-en-madrid-sobre-la-peticion-de-ayuso-por-los-incendios-es-una-escueta-carta-con-la-que-ha-sacado-un-tuit-cadena-ser/ :octicons-link-external-16:](https://cadenaser.com/nacional/2026/07/23/el-delegado-del-gobierno-en-madrid-sobre-la-peticion-de-ayuso-por-los-incendios-es-una-escueta-carta-con-la-que-ha-sacado-un-tuit-cadena-ser/){:target=_blank}
+En la *"Cadena Ser"*: [El delegado del Gobierno en Madrid, sobre la petición de Ayuso por los incendios: "Es una escueta carta con la que ha sacado un tuit" :octicons-link-external-16:][link-01]{:target=_blank}
+
+[link-01]: https://cadenaser.com/nacional/2026/07/23/el-delegado-del-gobierno-en-madrid-sobre-la-peticion-de-ayuso-por-los-incendios-es-una-escueta-carta-con-la-que-ha-sacado-un-tuit-cadena-ser/
 
 <!-- more -->
 
@@ -18,7 +20,7 @@ El caballero dice: *"que explique cuáles son las condiciones y qué es lo que m
 
 Es obvio que al Sr. Delegado poco le importa lo que estén quemando los incendios. Lo suyo es politizar y politizar, para ver si una vez politizado, al otro se ha cargado. Su problema es que pincha en hueso en Madrid una y otra vez.
 
-No es de extrañar porque estamos ante el autor de *"Bildu ha hecho más por los españoles que todos los patrioteros de pulsera"*. [elmundo.es 2023-06-15 :octicons-link-external-16:][elmundo-pulseras]{:target=_blank}
+No es de extrañar porque estamos ante el autor de *"Bildu ha hecho más por los españoles que todos los patrioteros de pulsera"*. [El Mundo - El delegado del Gobierno en Madrid dice que Bildu ha hecho más por los españoles que "todos los patrioteros de pulsera" 2023-06-15 :octicons-link-external-16:][elmundo-pulseras]{:target=_blank}
 
 [elmundo-pulseras]: https://www.elmundo.es/espana/2023/06/15/648ade5121efa0f91f8b45a0.html
 
@@ -30,7 +32,7 @@ Sólo nos queda especular sobre los posibles méritos de este caballero para ser
 
 Cita: *"Fue presidente de la Asociación “Bancal de Rosas”, entidad sin ánimo de lucro que gestionó el crowdfunding para la financiación de la campaña a la Secretaría General del PSOE en apoyo de Pedro Sánchez en las primarias de 2017."*
 
-Sorpresón. A cargo del *"crowdfunding"* que tendría que haber sido fiscalizado por el Tribunal de Cuentas para descartar irregularidades. Fiscalización que nunca tuvo lugar gracias a la intervención de otro gran prohombre: *"Santos Cerdán"*. [El Español :octicons-link-external-16:][elesp-cerd-cuentas]{:target=_blank}
+Sorpresón. A cargo del *"crowdfunding"* que tendría que haber sido fiscalizado por el Tribunal de Cuentas para descartar irregularidades. Fiscalización que nunca tuvo lugar gracias a la intervención de otro gran prohombre: *"Santos Cerdán"*. [El Español - Cerdán se negó a revelar al PSOE los donantes de Sánchez en las primarias del 2017 pese a exigirlo el Tribunal de Cuentas :octicons-link-external-16:][elesp-cerd-cuentas]{:target=_blank}
 
 [elesp-cerd-cuentas]: https://www.elespanol.com/espana/20250703/cerdan-nego-revelar-psoe-donantes-sanchez-primarias-pese-exigirlo-tribunal-cuentas/1003743829310_0.html
 

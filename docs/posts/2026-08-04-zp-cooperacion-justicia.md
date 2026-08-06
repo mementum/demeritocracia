@@ -26,11 +26,11 @@ Basta con recordar que en 10 días iba a justificar la procedencia de las joyas 
 
 [lasexta-zp-joyas]: https://www.lasexta.com/noticias/nacional/noticias-joyas-zapatero-dijo-que-daria-explicaciones-10-dias-pero-aun-sabe-nada-mas-mes-despues_202607216a5f97d6f172396e89ec27fb.html
 
-Lo de hablar con los medios se quedó en una entrevista con uno de los grandes voceros de P.S., con el grandísimo e imparcial *Javierito*. [Javier Ruiz entrevista este jueves a Zapatero en Mañaneros: la primera vez que se sienta en un plató tras su imputación :octicons-link-external-16:][elmundo-zp-javierito]{:target=_blank}
+Lo de hablar con los medios se quedó en una entrevista con uno de los grandes voceros de P.S., con el grandísimo e imparcial *Javierito*. [El Mundo - Javier Ruiz entrevista este jueves a Zapatero en Mañaneros: la primera vez que se sienta en un plató tras su imputación :octicons-link-external-16:][elmundo-zp-javierito]{:target=_blank}
 
 [elmundo-zp-javierito]: https://www.elmundo.es/television/2026/07/22/6a6101a6e85ece433e8b45b4.html
 
-Un masaje bien dado por *Javierito*. Porque Javier Ruiz es el periodismo de verdad, es la prensa y punto pelota, jamás ha presentado ni una, ni dos (ni más) informaciones falsas, sin haberse retractado jamás. Los demás son los pseudo-medios, Javier es la pureza. [La señora que era médica, cocinera, pinche, traumatóloga, administrativa y liberada sindical :octicons-link-external-16:][elconfi-javier-sanitaria]{:target=_blank}
+Un masaje bien dado por *Javierito*. Porque Javier Ruiz es el periodismo de verdad, es la prensa y punto pelota, jamás ha presentado ni una, ni dos (ni más) informaciones falsas, sin haberse retractado jamás. Los demás son los pseudo-medios, Javier es la pureza. [El Confidencial - La señora que era médica, cocinera, pinche, traumatóloga, administrativa y liberada sindical :octicons-link-external-16:][elconfi-javier-sanitaria]{:target=_blank}
 
 [elconfi-javier-sanitaria]: https://www.elconfidencial.com/cultura/2025-11-09/javier-ruiz-tve-medica-cocinera-administrativa_4244193/
 

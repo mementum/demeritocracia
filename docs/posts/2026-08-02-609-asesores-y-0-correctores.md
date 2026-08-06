@@ -14,11 +14,11 @@ En *"El Diario"*: [La carta de Pedro Sánchez a los líderes europeos tras las a
 
 <!-- more -->
 
-Curiosamente, el PDF no se encuentra buscando en ese artículo, sino en este otro: [Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior :octicons-link-external-16:][ps-ataque-ue]{:target=_blank}
+Curiosamente, el PDF no se encuentra buscando en ese artículo, sino en este otro: [El Diario - Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministros de Interior :octicons-link-external-16:][ps-ataque-ue]{:target=_blank}
 
 [ps-ataque-ue]: https://www.eldiario.es/internacional/sanchez-acusa-gobiernos-europeos-atacar-espana-pide-reunion-urgencia-ministros-interior_1_13422370.html
 
-El PDF: [Carta :octicons-link-external-16:][carta-pdf]{:target=_blank}
+El PDF: [El Diario - Carta :octicons-link-external-16:][carta-pdf]{:target=_blank}
 
 [carta-pdf]: https://static.eldiario.es/eldiario/public/content/file/original/2026/0801/08/2026-01-08-carta-presidenta-comision-europea.pdf
 
@@ -56,7 +56,7 @@ En formato gráfico.
 
 ![Asesores Presidenciales](images/2026-08-02-asesores-presidenciales.png)
 
-Cierto es que no todos asesoran directamente a P.S. Adscritos a Presidencia del Gobierno solo hay 609. [Sánchez bate su récord de asesores y personal de confianza en Moncloa y ya alcanza los 609 :octicons-link-external-16:][theobj-asesores]{:target=_blank}
+Cierto es que no todos asesoran directamente a P.S. Adscritos a Presidencia del Gobierno solo hay 609. [The Objective - Sánchez bate su récord de asesores y personal de confianza en Moncloa y ya alcanza los 609 :octicons-link-external-16:][theobj-asesores]{:target=_blank}
 
 [theobj-asesores]: https://theobjective.com/espana/2026-04-18/sanchez-record-asesores-609-moncloa-coste-eventuales/
 

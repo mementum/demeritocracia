@@ -22,7 +22,7 @@ Es algo que no se puede discutir. Un presidente con moral y principios habría e
 
 Como el ser humano es, además, el único animal que tropieza dos veces con la misma piedra, Morantita dice que se disculpa, confirmando lo que ha dicho, pero que, en realidad, lo dice porque lo dice la historia.
 
-Otra vez en *"La Sexta"*: [Morant dice que no comparó a Feijóo con Hitler: "Hice una reflexión, los gobiernos nazis también empezaron con políticas racistas" :octicons-link-external-16:][sexta-morant-polit-racistas]{:target=_blank}
+Otra vez en [La Sexta - Morant dice que no comparó a Feijóo con Hitler: "Hice una reflexión, los gobiernos nazis también empezaron con políticas racistas" :octicons-link-external-16:][sexta-morant-polit-racistas]{:target=_blank}
 
 [sexta-morant-polit-racistas]: https://www.lasexta.com/noticias/nacional/morant-dice-que-comparo-feijoo-hitler-hice-reflexion-gobiernos-nazis-tambien-empezaron-politicas-racistas_202607246a634a82aa17c0020f2d715b.html
 
@@ -32,7 +32,7 @@ Diana debió de pensar que, ante tal despliegue y exhibición de feminismo, solo
 
 A decir burradas y bobadas no la iba a ganar nadie. Es más, existe hasta constatación oficial de que Diana solo ejerce como candidata en precampaña y que lo de ser *"menestra"* es algo que le sobra, pero que le viene muy bien porque pagan muy bien a final de mes. Si las amigas de Ábalos cobraban de lo público sin trabajar, no va a ser ella menos.
 
-En *"El Debate"*: [Morant, candidata a tiempo total: lleva 25 días sin un acto de su agenda oficial en el Ministerio :octicons-link-external-16:][eldeb-morante-25-sin-trabajar]{:target=_blank}
+En [El Debate - Morant, candidata a tiempo total: lleva 25 días sin un acto de su agenda oficial en el Ministerio :octicons-link-external-16:][eldeb-morante-25-sin-trabajar]{:target=_blank}
 
 [eldeb-morante-25-sin-trabajar]: https://www.eldebate.com/espana/comunidad-valenciana/20260725/morant-candidata-tiempo-total-lleva-25-dias-acto-agenda-oficial-ministerio_443191.html
 

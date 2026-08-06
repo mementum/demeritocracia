@@ -16,7 +16,7 @@ En *"El Debate"*: [Page condena la cesión al «chantaje independentista» en el
 
 La vida ofrece ocasiones de ver a dos *"deméritos"* (personajes demeritocráticos, claro) en un único artículo.
 
-P.S., el hombre que con su partido defendía prohibir los indultos a políticos y corruptos. [El PSOE pedía en 2015 abolir los indultos a los corruptos «sean quienes sean» :octicons-link-external-16:][abc-indultos-politicos-2015]{:target=_blank}
+P.S., el hombre que con su partido defendía prohibir los indultos a políticos y corruptos. [ABC - El PSOE pedía en 2015 abolir los indultos a los corruptos «sean quienes sean» :octicons-link-external-16:][abc-indultos-politicos-2015]{:target=_blank}
 
 [abc-indultos-politicos-2015]: https://www.abc.es/espana/psoe-pedia-2015-abolir-indultos-condenados-corrupcion-20220728190541-nt.html
 

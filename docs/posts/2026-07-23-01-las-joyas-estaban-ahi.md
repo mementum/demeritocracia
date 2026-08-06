@@ -6,7 +6,9 @@ date: 2026-07-23
 
 El título ya nos deja la primera de las perlas, nunca mejor dicho, con las que el ínclito ZP se justifica ante el mundo mundial.
 
-En *"El Mundo"*: [https://www.elmundo.es/espana/2026/07/23/6a61f875e85ece02518b456d.html :octicons-link-external-16:](https://www.elmundo.es/espana/2026/07/23/6a61f875e85ece02518b456d.html){:target=_blank}
+En *"El Mundo"*: [Zapatero, sobre las joyas tasadas en 1,3 millones de euros: "No tenía intención de defraudar y fue un regalo de cortesía" :octicons-link-external-16:][link-01]{:target=_blank}
+
+[link-01]: https://www.elmundo.es/espana/2026/07/23/6a61f875e85ece02518b456d.html
 
 <!-- more -->
 
