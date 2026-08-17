@@ -1,5 +1,5 @@
 ---
-date: 2026-08-26
+date: 2026-08-16
 ---
 
 # El Puto Amo del Sr. X Resolvió la Crisis
