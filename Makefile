@@ -10,9 +10,11 @@ MKDOCS_DIR := .
 YML_EXT := .yml
 MKDOCS_YML := $(MKDOCS_DIR)/mkdocs$(YML_EXT)
 MKDOCS_DOCS_DIR := $(MKDOCS_DIR)/docs
+MKDOCS_POSTS_DIR := $(MKDOCS_DOCS_DIR)/posts
 MKDOCS_SITE_DIR := $(MKDOCS_DIR)/site
 MKDOCS_CSS_DIR := $(MKDOCS_DOCS_DIR)/stylesheets
 MKDOCS_JS_DIR := $(MKDOCS_DOCS_DIR)/js
+POST_TEMPLATE := template/post-template.md
 
 ###############################################################################
 # TOOLING DEFINITION
@@ -150,6 +152,11 @@ git-status:
 	$(call echo_header,git-status)
 	$(call find_tool_or_exit,$(GIT))
 	$(GIT_STATUS)
+
+
+post-%:
+	cp $(POST_TEMPLATE) $(MKDOCS_POSTS_DIR)/$(shell date +%Y-%m-%d)-$*.md
+
 
 ###############################################################################
 # TOUCH to force a rebuild

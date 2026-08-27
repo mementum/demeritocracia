@@ -29,3 +29,13 @@ Al final, la presión interna y muy enfadado, proponiendo salir de incógnito en
 Pero quién sabe, porque P.S. ya sorprendió al mundo con sus cinco días de hombre enamorado. [20 Minutos - "Soy un hombre enamorado", "necesito parar y reflexionar...": las frases más destacadas de la carta que Sánchez mandó a la ciudadanía :octicons-link-external-16:][20min-ps-cincodias]{:target=_blank}
 
 [20min-ps-cincodias]: https://www.20minutos.es/noticia/5703300/0/soy-un-hombre-enamorado-necesito-parar-reflexionar-las-frases-mas-destacadas-carta-que-sanchez-mando-ciudadania/
+
+Como P.S. no va a sorprender a nadie es siendo el primero en hablar ante el parlamento para contar qué pasa, qué hace o lo que deja de pasar o hacer. Sagradas sus vacaciones son (que diría Yoda) Porque irá el día 3 de septiembre forzado por sus *"sucios"*. De no haberle forzado nadie  le vería el peluquín hasta el 9 de septiembre. [El Confidencial - Sánchez comparecerá el 3 de septiembre en el Congreso para informar de la gestión en Ceuta :octicons-link-external-16:][elconf-ps-3-no-9]{:target=_blank}
+
+[elconf-ps-3-no-9]: https://www.elconfidencial.com/espana/2026-08-26/sanchez-pide-comparecer-en-el-congreso-crisis-ceuta_4412230/
+
+No deja de ser curioso que quisiera comparecer el día 9. Sería justo **un mes** después de que la Primera Ministra danesa compareciera ante el parlamento dané para explicar lo de Ceuta y su posición. P.S. ha estado un mes sin hacer nada, de vacas pagadas, y quería comparecer un mes después de la danesa. [Cadena Ser - Apoyo parlamentario para la primera ministra danesa, en su declaración contra la política migratoria española :octicons-link-external-16:][ser-pm-danesa-comparece]{:target=_blank}
+
+[ser-pm-danesa-comparece]: https://cadenaser.com/nacional/2026/08/12/apoyo-parlamentario-para-la-primera-ministra-danesa-en-su-declaracion-contra-la-politica-migratoria-espanola-cadena-ser/
+
+Como habría dicho Leroy Jethro Gibbs: *"There is no such thing as a coincidence"*.
