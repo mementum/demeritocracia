@@ -155,8 +155,8 @@ git-status:
 
 
 post-%:
-	cp $(POST_TEMPLATE) $(MKDOCS_POSTS_DIR)/$(shell date +%Y-%m-%d)-$*.md
-
+	$(eval ddate := $(shell date +%Y-%m-%d))
+	sed 's/: yyyy-mm-dd/: $(ddate)/' $(POST_TEMPLATE) > $(MKDOCS_POSTS_DIR)/$(ddate)-$*.md
 
 ###############################################################################
 # TOUCH to force a rebuild
