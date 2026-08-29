@@ -18,6 +18,10 @@ Se puede estar a favor de Felipe y la monarquía. Se puede estar en contra. Se p
 
 A presidir el Consejo de Seguridad Nacional, a visitar Ceuta y tal. Después de una invasión y viendo Felipe que el rey, su alter ego, no iba a poder acudir a Ceuta (la montaña), pues decidió que Ceuta acudiera a él.
 
+  - [Okdiario - El Rey Felipe quiso ir a Ceuta en plena invasión pero Sánchez se lo prohibió :octicons-link-external-16:][okdiario-sanchez-veta-felipe-ceuta]{:target=_blank}
+
+[okdiario-sanchez-veta-felipe-ceuta]: https://okdiario.com/espana/rey-felipe-quiso-ir-ceuta-plena-invasion-pero-sanchez-lo-prohibio-19133268
+
   - [La Vanguardia - El Rey recibe a Vivas, presidente de Ceuta, este jueves en Marivent :octicons-link-external-16:][lavang-rey-recibe-vivas]{:target=_blank}
 
 [lavang-rey-recibe-vivas]: https://www.lavanguardia.com/politica/20260805/11608606/rey-recibe-vivas-presidente-ceuta-jueves-marivent.html
