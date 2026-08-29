@@ -148,12 +148,12 @@ mkdocs-kill:
 	-$(PDM_RUN) $(PKILL) $(MKDOCS)
 
 # Show current git status
-git-status:
+status:
 	$(call echo_header,git-status)
 	$(call find_tool_or_exit,$(GIT))
 	$(GIT_STATUS)
 
-
+# Create a new post with the radix as title plu ".md"
 post-%:
 	$(eval ddate := $(shell date +%Y-%m-%d))
 	sed 's/: yyyy-mm-dd/: $(ddate)/' $(POST_TEMPLATE) > $(MKDOCS_POSTS_DIR)/$(ddate)-$*.md
