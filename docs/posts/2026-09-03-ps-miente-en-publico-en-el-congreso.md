@@ -22,4 +22,10 @@ Bien podría pensarse que, en realidad, P.S. ha oído campanas y no sabe dónde.
 
 Cómo iba a enterarse él de si alguien llamó a la embajadora y les dieron gato por liebre con el encargado de negocios, figurante primero en la embajada.
 
+Seguro que tampoco se ha enterado de que un nuevo ministro marroquí se ha pedido Ceuta y Melilla. Visto en [El Debate - Un ministro marroquí vuelve a las andadas y advierte sobre Ceuta: «No retrocederemos ni un solo palmo de nuestro territorio» :octicons-link-external-16:][eldebate-minist-marr-ceuta-meilla]{:target=_blank}
+
+[eldebate-minist-marr-ceuta-meilla]: https://www.eldebate.com/espana/20260903/ministro-marroqui-vuelve-andadas-advierte-sobre-ceuta-no-retrocederemos-solo-palmo-nuestro-territorio_455212.html
+
+Quizá esta vez la señora embajadora quiera un té con cuscús o puede que envíe al bedel, para que le explique a P.S. como se abre la puerta de la frontera.
+
 La mentirocracia como demeritocracia.
