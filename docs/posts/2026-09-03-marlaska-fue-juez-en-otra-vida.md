@@ -24,4 +24,4 @@ Tuvo además los santos cojones de ignorar e ignorar e ignorar una sentencia jud
 
 [epress-cobos-jubila]: https://www.europapress.es/nacional/noticia-perez-cobos-jubila-pulso-judicial-marlaska-cese-declarado-ilegal-no-conseguir-ser-general-20241213132756.html
 
-Lo dicho, tuvo que ser otra vida en la que ejerció como juez, respetando y aplicando la ley. Porque en esta sólo aplica la P.S.-doctrina.
+Lo dicho, tuvo que ser otra vida en la que ejerció como juez, respetando y aplicando la ley. Porque en esta sólo aplica la P.S.-doctrina. Según la cuál es imposible que haya miembros de la Policía que se nieguena a informar a los *minions* del dictador supremo. Ya que es como informar a P.S. *himself*.
